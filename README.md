@@ -3,10 +3,7 @@
 ## Here is the app CoolDiary
 
 
- ![image](https://raw.githubusercontent.com/luosuohu/product/icon.png)
- 
- 
-CoolDiary is a Smart Stable Quick ProxyUtil
+ ![image](https://raw.githubusercontent.com/luosuohu/product/master/icon.png)
 
 CoolDiary is a Easy use diary cool
 You can record your life in a easy way
