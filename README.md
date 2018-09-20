@@ -18,4 +18,4 @@ It's fast and stable
 
 ### Support or Contact
 
-Having trouble with CoolDiary? Contacl zhou709051luo3017@163.com  and we’ll help you sort it out.
+Having trouble with  ShadowRocket - Wingy ? Contacl zhou709051luo3017@163.com  and we’ll help you sort it out.
